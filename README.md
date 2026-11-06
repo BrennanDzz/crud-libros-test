@@ -86,21 +86,18 @@ http://localhost:3000
 
 ## 🔄 Operaciones CRUD
 
-| Operación | Método HTTP | Descripción |
-|---|---|---|
-| Crear | POST | Añadir un libro |
-| Leer | GET | Obtener los libros |
+| Operación  | Método HTTP | Descripción        |
+| ---------- | ----------- | ------------------ |
+| Crear      | POST        | Añadir un libro    |
+| Leer       | GET         | Obtener los libros |
 | Actualizar | PUT / PATCH | Modificar un libro |
-| Eliminar | DELETE | Eliminar un libro |
+| Eliminar   | DELETE      | Eliminar un libro  |
 
 ## 📸 Captura de pantalla
 
 Captura de la página de Libros donde se muestra el formulario para añadir nuevos libros y el listado de libros obtenidos desde JSON Server.
 
-## 📸 Captura de pantalla
-
-![Vista de la aplicación CRUD de libros](./screenshots/books-crud.png)
----
+[Vista de la aplicación CRUD de libros](./screenshots/books-crud.png)
 
 # English
 
@@ -184,13 +181,15 @@ http://localhost:3000
 
 ## 🔄 CRUD Operations
 
-| Operation | HTTP Method | Description |
-|---|---|---|
-| Create | POST | Add a new book |
-| Read | GET | Retrieve the book list |
-| Update | PUT / PATCH | Update a book |
-| Delete | DELETE | Remove a book |
+| Operation | HTTP Method | Description            |
+| --------- | ----------- | ---------------------- |
+| Create    | POST        | Add a new book         |
+| Read      | GET         | Retrieve the book list |
+| Update    | PUT / PATCH | Update a book          |
+| Delete    | DELETE      | Remove a book          |
 
 ## 📸 Screenshot
 
 Screenshot of the Books page showing the form for adding new books and the list of books retrieved from JSON Server.
+
+[View of the book CRUD application](./screenshots/books-crud.png)
