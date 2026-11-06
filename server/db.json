@@ -1,0 +1,23 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": 1967
+    },
+    {
+      "id": "4",
+      "title": "El Bufón",
+      "author": "Gabriel Camacho",
+      "year": 2026
+    },
+    {
+      "title": "It",
+      "author": "Gabriel Angelo",
+      "year": "1989",
+      "id": "-Jzwf1ZBcok"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
